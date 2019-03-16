@@ -10,7 +10,7 @@ namespace Log4netAndJson_GitHub
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("这是第二个分支");
+            Console.WriteLine("这是第主分支");
         }
     }
 }
