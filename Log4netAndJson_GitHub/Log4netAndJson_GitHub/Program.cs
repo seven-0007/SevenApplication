@@ -10,7 +10,7 @@ namespace Log4netAndJson_GitHub
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("这是MasterBranch");
+            Console.WriteLine("这是SecondBranch");
         }
     }
 }
